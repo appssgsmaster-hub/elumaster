@@ -1,0 +1,7 @@
+{
+  "name": "EluMaster by SGS Group",
+  "description": "Um aplicativo premium de caminhada e saúde desenvolvido pelo SGS Group, com rastreamento GPS e IA motivacional.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
